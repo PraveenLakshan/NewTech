@@ -1,0 +1,14 @@
+## Project Overview
+I Added Admin Verification Process
+Forget Password Process
+Chat
+Payment Option Too But Unfortunetaley Cannot Used Due To Merchant Problem Payhere
+But I Added Invoice Too  
+
+## Technologies Used
+PHP
+JAVA Script
+Bootstrap
+
+## Future Plan
+My Future Plan To Make This Web To Worlwide Platform Like Ebay Amzon.
